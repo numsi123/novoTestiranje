@@ -13,6 +13,6 @@ object tes {
   // vtoro na branch
   // ajde da pushame na branch
 
-  val master2  = 2
+  // ovde sprej ke stoi///////////
 
 }
