@@ -13,10 +13,7 @@ object tes {
   // vtoro na branch
   // ajde da pushame na branch
 
-<<<<<<< HEAD
   // ovde sprej ke stoi///////////
   val sprej = 10
 
-=======
->>>>>>> parent of 5bf7bfd... val master 2
 }
