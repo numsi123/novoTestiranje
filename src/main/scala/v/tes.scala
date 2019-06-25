@@ -14,5 +14,6 @@ object tes {
   // ajde da pushame na branch
 
   // ovde sprej ke stoi///////////
+  val sprej = 10
 
 }
