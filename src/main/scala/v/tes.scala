@@ -1,6 +1,8 @@
 package v
 
 object tes {
+
+  // mobilen 1
     // turame novo nesto pak
 
     // uste master
