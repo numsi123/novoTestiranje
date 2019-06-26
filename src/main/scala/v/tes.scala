@@ -16,4 +16,5 @@ object tes {
   val master2  = 2
   val github = 10
 
+  val gitNovaGranka =0
 }
