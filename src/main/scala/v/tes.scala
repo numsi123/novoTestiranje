@@ -17,4 +17,6 @@ object tes {
   val github = 10
 
   val gitNovaGranka =0
+
+  // dodavanme na glavniot master
 }
