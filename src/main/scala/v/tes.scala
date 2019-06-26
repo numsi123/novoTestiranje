@@ -19,4 +19,5 @@ object tes {
   val gitNovaGranka =0
 
   // dodavanme na glavniot master
+  // josh eden na glaven master
 }
