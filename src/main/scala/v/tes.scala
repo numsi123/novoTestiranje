@@ -2,22 +2,5 @@ package v
 
 object tes {
 
-  // mobilen 1
-    // turame novo nesto pak
-  val master = 1
-
-    // uste master
-    // nesto dodavame// nesto briseme
-
-  // ova e za branh
-  // vtoro na branch
-  // ajde da pushame na branch
-
-  val master2  = 2
-  val github = 10
-
-  val gitNovaGranka =0
-
-  // dodavanme na glavniot master
-  // josh eden na glaven master
+ // ova e grankata nova
 }
