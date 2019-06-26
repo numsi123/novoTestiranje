@@ -9,4 +9,5 @@ object tes {
  val master3= 44
 
  // DODATOCI VO REBAS 1
+ // dodatoci vo rebas 2
 }
