@@ -14,5 +14,6 @@ object tes {
   // ajde da pushame na branch
 
   val master2  = 2
+  val github = 10
 
 }
