@@ -6,4 +6,6 @@ object tes {
   //  granka 2
  val master =2
  val master2 = 22
+
+ val master3= 44
 }
